@@ -7,3 +7,5 @@ first project on c
    A script that compiles a C file but does not link
 
 2. A script that generates the assembly code of a C code and save it in an output   file
+
+3. A script that compiles a C file and creates and executable named cisfun
