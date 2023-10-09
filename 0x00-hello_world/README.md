@@ -23,3 +23,7 @@ first project on c
 
 7. Intel
    A script that generates the assembly code
+
+
+8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity
+   A program that prints functions without printf or puts
