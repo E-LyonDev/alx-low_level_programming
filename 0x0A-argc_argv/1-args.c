@@ -3,10 +3,10 @@
 
 /**
  * main - Function that prints the number of argument passed into it
- * argc - argument count
- * argv - argument vector
+ * @argc: argument count
+ * @argv: argument vector
  *
- * Return always  zero
+ * Return always zero
  */
 
 int main (int argc, char *argv[])

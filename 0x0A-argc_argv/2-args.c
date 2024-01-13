@@ -3,8 +3,8 @@
 
 /**
  * main - function that prints all arguments it recieve
- * argc - argument count
- * argv - argument vector
+ * @argc: argument count
+ * @argv: argument vector
  *
  * Return 0 (success)
  */
