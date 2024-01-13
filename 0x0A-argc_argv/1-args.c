@@ -1,5 +1,5 @@
-#include "stdio.h"
-#include <stdlib.h>
+#include "main.h"
+#include <stdio.h>
 
 /**
  * main - Function that prints the number of argument passed into it
